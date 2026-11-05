@@ -1,0 +1,322 @@
+[
+  {
+    "number": 1,
+    "slug": "tactile-skeuomorphic-button",
+    "folder": "tips/001-tactile-skeuomorphic-button",
+    "title": "富有点击手感的拟物按钮",
+    "date": "2026-10-25",
+    "published_at": "2026-10-25T23:29:17+08:00",
+    "source_url": "https://x.com/Kubai087/status/2114378773655326873",
+    "post_id": "2114378773655326873",
+    "prompt_ids": [
+      "2114378773655326873"
+    ],
+    "prompt_location": "main_post",
+    "prompt_chars": 3281,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2114377652786343937/img/0oSjqVCCRZRr4Vlc.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2114377652786343937/vid/avc1/720x960/KdTArzItMbHl8-GA.mp4",
+        "resolution": "720x960",
+        "duration_s": 10.0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "slug": "cascading-menu-safe-zone",
+    "folder": "tips/002-cascading-menu-safe-zone",
+    "title": "少数人才知道的级联菜单小技巧：添加安全区域延时",
+    "date": "2026-10-26",
+    "published_at": "2026-10-26T22:44:52+08:00",
+    "source_url": "https://x.com/Kubai087/status/2114729985143677258",
+    "post_id": "2114729985143677258",
+    "prompt_ids": [
+      "2114729985143677258"
+    ],
+    "prompt_location": "main_post",
+    "prompt_chars": 4698,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2114727795691790336/img/MJJv19SXPyFgjdCD.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2114727795691790336/vid/avc1/720x960/0jZT_hZnkwI3ga5E.mp4",
+        "resolution": "720x960",
+        "duration_s": 23.0
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "slug": "dither-ascii-effect",
+    "folder": "tips/003-dither-ascii-effect",
+    "title": "Dither 与 ASCII 参数化效果",
+    "date": "2026-10-27",
+    "published_at": "2026-10-27T22:40:14+08:00",
+    "source_url": "https://x.com/Kubai087/status/2115091203465290087",
+    "post_id": "2115091203465290087",
+    "prompt_ids": [
+      "2115091203465290087"
+    ],
+    "prompt_location": "main_post",
+    "prompt_chars": 6276,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2115089614973325312/img/tG0S_o-KreC3BkQg.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2115089614973325312/vid/avc1/720x960/nVwPW7rZZOYQ9g-n.mp4",
+        "resolution": "720x960",
+        "duration_s": 20.9
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "slug": "progressive-radius-continuous-corners",
+    "folder": "tips/004-progressive-radius-continuous-corners",
+    "title": "使用递进式圆角数值 + 连续曲率圆角（超椭圆）",
+    "date": "2026-10-28",
+    "published_at": "2026-10-28T23:44:30+08:00",
+    "source_url": "https://x.com/Kubai087/status/2115469767650021796",
+    "post_id": "2115469767650021796",
+    "prompt_ids": [
+      "2115469767650021796"
+    ],
+    "prompt_location": "main_post",
+    "prompt_chars": 1092,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2115461115807485952/img/I560E5mDU21W2NLv.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2115461115807485952/vid/avc1/720x960/zVn3qOD8sq5_YCEL.mp4",
+        "resolution": "720x960",
+        "duration_s": 12.6
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "slug": "springy-drag-to-reorder",
+    "folder": "tips/005-springy-drag-to-reorder",
+    "title": "更灵动的拖拽排序",
+    "date": "2026-10-29",
+    "published_at": "2026-10-29T23:10:58+08:00",
+    "source_url": "https://x.com/Kubai087/status/2115823717024735708",
+    "post_id": "2115823717024735708",
+    "prompt_ids": [
+      "2115823717024735708"
+    ],
+    "prompt_location": "main_post",
+    "prompt_chars": 1486,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2115823531246428161/img/EEriFrcybTMoD4IN.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2115823531246428161/vid/avc1/720x960/sdqsdR_qc9NAx-YK.mp4",
+        "resolution": "720x960",
+        "duration_s": 13.2
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "slug": "book-opening-card",
+    "folder": "tips/006-book-opening-card",
+    "title": "像书一样翻开的卡片",
+    "date": "2026-10-30",
+    "published_at": "2026-10-30T23:59:43+08:00",
+    "source_url": "https://x.com/Kubai087/status/2116198373040759107",
+    "post_id": "2116198373040759107",
+    "prompt_ids": [
+      "2116198373040759107"
+    ],
+    "prompt_location": "main_post",
+    "prompt_chars": 9484,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2116198077908627456/img/z1rUJAKBD_uHvNY8.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2116198077908627456/vid/avc1/720x960/ly57JH8KLUOeslAL.mp4",
+        "resolution": "720x960",
+        "duration_s": 27.9
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "slug": "typography-polish-zh-en",
+    "folder": "tips/007-typography-polish-zh-en",
+    "title": "让你的文字排版更顺眼（以中英文为例）",
+    "date": "2026-10-31",
+    "published_at": "2026-10-31T23:37:05+08:00",
+    "source_url": "https://x.com/Kubai087/status/2116555064227811412",
+    "post_id": "2116555064227811412",
+    "prompt_ids": [
+      "2116555520274493582"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 4347,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2116554715412725760/img/b6U4E8WGPENW6upX.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2116554715412725760/vid/avc1/720x960/fyM3hOxfeRK0ksZk.mp4",
+        "resolution": "720x960",
+        "duration_s": 52.9
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "slug": "wiki-docs-layout",
+    "folder": "tips/008-wiki-docs-layout",
+    "title": "如何设计 Wiki 的框架和布局，兼顾 PC 和移动端体验？",
+    "date": "2026-11-01",
+    "published_at": "2026-11-01T23:13:00+08:00",
+    "source_url": "https://x.com/Kubai087/status/2116911391437443471",
+    "post_id": "2116911391437443471",
+    "prompt_ids": [
+      "2116917025348231369"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 4092,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2116910666649075712/img/kW_OliY1r0Okl-b5.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2116910666649075712/vid/avc1/720x960/c_oqMP3KAg7i_J9A.mp4",
+        "resolution": "720x960",
+        "duration_s": 65.9
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "slug": "floating-ui-decision",
+    "folder": "tips/009-floating-ui-decision",
+    "title": "提示框、跟随气泡、就地确认、抽屉与弹窗，到底怎么选？",
+    "date": "2026-11-03",
+    "published_at": "2026-11-03T01:53:13+08:00",
+    "source_url": "https://x.com/Kubai087/status/2117314098165862612",
+    "post_id": "2117314098165862612",
+    "prompt_ids": [
+      "2117314198430757283"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 4935,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2117312605341835264/img/sPim8RuMetOpohG0.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2117312605341835264/vid/avc1/720x960/W5mcw8EDP9Z-eJYX.mp4",
+        "resolution": "720x960",
+        "duration_s": 39.7
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "slug": "liquid-glass-material",
+    "folder": "tips/010-liquid-glass-material",
+    "title": "液态玻璃材质",
+    "date": "2026-11-04",
+    "published_at": "2026-11-04T08:53:15+08:00",
+    "source_url": "https://x.com/Kubai087/status/2117782193108082923",
+    "post_id": "2117782193108082923",
+    "prompt_ids": [
+      "2117782337698324846"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 6964,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2117782054738042880/img/jFknd5cFSgFGKKhc.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2117782054738042880/vid/avc1/720x960/saYtQW5zBVIy-T_l.mp4",
+        "resolution": "720x960",
+        "duration_s": 39.4
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "slug": "animation-easing-rhythm",
+    "folder": "tips/011-animation-easing-rhythm",
+    "title": "如何选择更合适的动画节奏？",
+    "date": "2026-11-05",
+    "published_at": "2026-11-05T08:50:00+08:00",
+    "source_url": "https://x.com/Kubai087/status/2118143759984803898",
+    "post_id": "2118143759984803898",
+    "prompt_ids": [
+      "2118143923571048817",
+      "2118144019545067872"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 4698,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2118040940699103232/img/fNoaWCpWiwFAnH7Z.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2118040940699103232/vid/avc1/720x960/phZ39tzxIccMxtcZ.mp4",
+        "resolution": "720x960",
+        "duration_s": 32.1
+      }
+    ]
+  }
+]
