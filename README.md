@@ -4,10 +4,11 @@
 
 内容版权归原作者所有，这里只做个人学习用的整理，仓库为私有。每一期都附有原帖链接。
 
-## 目录（最新在前，共 11 期）
+## 目录（最新在前，共 12 期）
 
 | 期号 | 标题 | 发布日期（北京时间） | 原帖 |
 | --- | --- | --- | --- |
+| 012 | [消息气泡的材质与动效（探索版）](tips/012-message-bubble-materials/README.md) | 2026-11-06 | [原帖](https://x.com/Kubai087/status/2118508433704169726) |
 | 011 | [如何选择更合适的动画节奏？](tips/011-animation-easing-rhythm/README.md) | 2026-11-05 | [原帖](https://x.com/Kubai087/status/2118143759984803898) |
 | 010 | [液态玻璃材质](tips/010-liquid-glass-material/README.md) | 2026-11-04 | [原帖](https://x.com/Kubai087/status/2117782193108082923) |
 | 009 | [提示框、跟随气泡、就地确认、抽屉与弹窗，到底怎么选？](tips/009-floating-ui-decision/README.md) | 2026-11-03 | [原帖](https://x.com/Kubai087/status/2117314098165862612) |

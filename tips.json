@@ -318,5 +318,34 @@
         "duration_s": 32.1
       }
     ]
+  },
+  {
+    "number": 12,
+    "slug": "message-bubble-materials",
+    "folder": "tips/012-message-bubble-materials",
+    "title": "消息气泡的材质与动效（探索版）",
+    "date": "2026-11-06",
+    "published_at": "2026-11-06T08:59:05+08:00",
+    "source_url": "https://x.com/Kubai087/status/2118508433704169726",
+    "post_id": "2118508433704169726",
+    "prompt_ids": [
+      "2118508837796037053"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 16524,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2118507533870694400/img/4D6UZgS5OhjaHfkP.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2118507533870694400/vid/avc1/720x960/IFCcbYlKoPKkHjsf.mp4",
+        "resolution": "720x960",
+        "duration_s": 43.2
+      }
+    ]
   }
 ]
