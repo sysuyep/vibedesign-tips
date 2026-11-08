@@ -347,5 +347,34 @@
         "duration_s": 43.2
       }
     ]
+  },
+  {
+    "number": 13,
+    "slug": "physical-shockwave-halo",
+    "folder": "tips/013-physical-shockwave-halo",
+    "title": "有物理质感的冲击波（含扭曲与通道分离）",
+    "date": "2026-11-08",
+    "published_at": "2026-11-08T17:19:18+08:00",
+    "source_url": "https://x.com/Kubai087/status/2119359092334743735",
+    "post_id": "2119359092334743735",
+    "prompt_ids": [
+      "2119359328725635162"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 13023,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2119350730062712832/img/-z2h1pHlbY-8H0eA.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2119350730062712832/vid/avc1/720x960/ORetXtImlNFa-qTh.mp4",
+        "resolution": "720x960",
+        "duration_s": 25.6
+      }
+    ]
   }
 ]
