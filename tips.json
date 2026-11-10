@@ -376,5 +376,34 @@
         "duration_s": 25.6
       }
     ]
+  },
+  {
+    "number": 14,
+    "slug": "card-delete-effects",
+    "folder": "tips/014-card-delete-effects",
+    "title": "让你的元素离场更生动——卡片删除效果（燃烧、火焰、碎块、撕贴纸）",
+    "date": "2026-11-10",
+    "published_at": "2026-11-10T00:36:00+08:00",
+    "source_url": "https://x.com/Kubai087/status/2119831380276523207",
+    "post_id": "2119831380276523207",
+    "prompt_ids": [
+      "2119831540301692975"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 21889,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2119831245257576448/img/CFFi-ADjc5BB_BOM.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2119831245257576448/vid/avc1/720x960/ry_6eqfxCE9FsOPD.mp4",
+        "resolution": "720x960",
+        "duration_s": 12.8
+      }
+    ]
   }
 ]
