@@ -405,5 +405,34 @@
         "duration_s": 12.8
       }
     ]
+  },
+  {
+    "number": 15,
+    "slug": "continuity-transitions",
+    "folder": "tips/015-continuity-transitions",
+    "title": "用好连续性，让你的产品更丝滑",
+    "date": "2026-11-11",
+    "published_at": "2026-11-11T09:00:01+08:00",
+    "source_url": "https://x.com/Kubai087/status/2120320609255043510",
+    "post_id": "2120320609255043510",
+    "prompt_ids": [
+      "2120321469817483516"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 10011,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2120211269777276928/img/As3qgWHIR1HTa6jy.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2120211269777276928/vid/avc1/720x960/c3SepnBpDw28_Yyr.mp4",
+        "resolution": "720x960",
+        "duration_s": 30.6
+      }
+    ]
   }
 ]

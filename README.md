@@ -4,10 +4,11 @@
 
 内容版权归原作者所有，这里只做个人学习用的整理，仓库为私有。每一期都附有原帖链接。
 
-## 目录（最新在前，共 14 期）
+## 目录（最新在前，共 15 期）
 
 | 期号 | 标题 | 发布日期（北京时间） | 原帖 |
 | --- | --- | --- | --- |
+| 015 | [用好连续性，让你的产品更丝滑](tips/015-continuity-transitions/README.md) | 2026-11-11 | [原帖](https://x.com/Kubai087/status/2120320609255043510) |
 | 014 | [让你的元素离场更生动——卡片删除效果（燃烧、火焰、碎块、撕贴纸）](tips/014-card-delete-effects/README.md) | 2026-11-10 | [原帖](https://x.com/Kubai087/status/2119831380276523207) |
 | 013 | [有物理质感的冲击波（含扭曲与通道分离）](tips/013-physical-shockwave-halo/README.md) | 2026-11-08 | [原帖](https://x.com/Kubai087/status/2119359092334743735) |
 | 012 | [消息气泡的材质与动效（探索版）](tips/012-message-bubble-materials/README.md) | 2026-11-06 | [原帖](https://x.com/Kubai087/status/2118508433704169726) |
