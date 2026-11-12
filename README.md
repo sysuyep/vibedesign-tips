@@ -4,10 +4,11 @@
 
 内容版权归原作者所有，这里只做个人学习用的整理，仓库为私有。每一期都附有原帖链接。
 
-## 目录（最新在前，共 15 期）
+## 目录（最新在前，共 16 期）
 
 | 期号 | 标题 | 发布日期（北京时间） | 原帖 |
 | --- | --- | --- | --- |
+| 016 | [Toast 和 Notification 怎么选？](tips/016-toast-vs-notification/README.md) | 2026-11-12 | [原帖](https://x.com/Kubai087/status/2120682993563922586) |
 | 015 | [用好连续性，让你的产品更丝滑](tips/015-continuity-transitions/README.md) | 2026-11-11 | [原帖](https://x.com/Kubai087/status/2120320609255043510) |
 | 014 | [让你的元素离场更生动——卡片删除效果（燃烧、火焰、碎块、撕贴纸）](tips/014-card-delete-effects/README.md) | 2026-11-10 | [原帖](https://x.com/Kubai087/status/2119831380276523207) |
 | 013 | [有物理质感的冲击波（含扭曲与通道分离）](tips/013-physical-shockwave-halo/README.md) | 2026-11-08 | [原帖](https://x.com/Kubai087/status/2119359092334743735) |
@@ -29,6 +30,6 @@
 - `README.md`：标题、发布时间、原帖链接、作者讲解、完整提示词、效果展示
 - `prompt.md`：只有提示词原文，方便整段复制
 - `media/poster.jpg`：效果视频的封面图
-- `media/demo.mp4`：效果视频（720x960）
+- `media/demo.mp4`：效果视频（720x960；016 起为 1080x1440）
 
 机器可读的总索引在 [tips.json](tips.json)。新一期怎么加进来，见 [ARCHITECTURE.md](ARCHITECTURE.md)。

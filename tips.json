@@ -434,5 +434,34 @@
         "duration_s": 30.6
       }
     ]
+  },
+  {
+    "number": 16,
+    "slug": "toast-vs-notification",
+    "folder": "tips/016-toast-vs-notification",
+    "title": "Toast 和 Notification 怎么选？",
+    "date": "2026-11-12",
+    "published_at": "2026-11-12T09:00:00+08:00",
+    "source_url": "https://x.com/Kubai087/status/2120682993563922586",
+    "post_id": "2120682993563922586",
+    "prompt_ids": [
+      "2120685913441456371"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 10892,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2120553195240144902/img/5wtsqgmObPDIw-Ua.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2120553195240144902/vid/avc1/1080x1440/c89VOk45D5nkly1q.mp4",
+        "resolution": "1080x1440",
+        "duration_s": 36.6
+      }
+    ]
   }
 ]
