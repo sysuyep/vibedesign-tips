@@ -492,5 +492,34 @@
         "duration_s": 35.5
       }
     ]
+  },
+  {
+    "number": 18,
+    "slug": "3d-holographic-card",
+    "folder": "tips/018-3d-holographic-card",
+    "title": "会倾斜、能翻转的 3D 镭射卡片",
+    "date": "2026-11-15",
+    "published_at": "2026-11-15T17:04:17+08:00",
+    "source_url": "https://x.com/Kubai087/status/2121892029403922717",
+    "post_id": "2121892029403922717",
+    "prompt_ids": [
+      "2121892403212964060"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 17634,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2121890434867945472/img/GL2Xt9f0HqpkFhe4.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2121890434867945472/vid/avc1/720x960/a7MfNyZMzfkWGgLv.mp4",
+        "resolution": "720x960",
+        "duration_s": 40.8
+      }
+    ]
   }
 ]

@@ -4,10 +4,11 @@
 
 内容版权归原作者所有，这里只做个人学习用的整理，仓库为私有。每一期都附有原帖链接。
 
-## 目录（最新在前，共 17 期）
+## 目录（最新在前，共 18 期）
 
 | 期号 | 标题 | 发布日期（北京时间） | 原帖 |
 | --- | --- | --- | --- |
+| 018 | [会倾斜、能翻转的 3D 镭射卡片](tips/018-3d-holographic-card/README.md) | 2026-11-15 | [原帖](https://x.com/Kubai087/status/2121892029403922717) |
 | 017 | [巧用等待状态，让产品响应更丝滑](tips/017-waiting-states-feedback/README.md) | 2026-11-14 | [原帖](https://x.com/Kubai087/status/2121449185014845794) |
 | 016 | [Toast 和 Notification 怎么选？](tips/016-toast-vs-notification/README.md) | 2026-11-12 | [原帖](https://x.com/Kubai087/status/2120682993563922586) |
 | 015 | [用好连续性，让你的产品更丝滑](tips/015-continuity-transitions/README.md) | 2026-11-11 | [原帖](https://x.com/Kubai087/status/2120320609255043510) |
