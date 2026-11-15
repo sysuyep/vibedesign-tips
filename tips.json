@@ -463,5 +463,34 @@
         "duration_s": 36.6
       }
     ]
+  },
+  {
+    "number": 17,
+    "slug": "waiting-states-feedback",
+    "folder": "tips/017-waiting-states-feedback",
+    "title": "巧用等待状态，让产品响应更丝滑",
+    "date": "2026-11-14",
+    "published_at": "2026-11-14T11:44:34+08:00",
+    "source_url": "https://x.com/Kubai087/status/2121449185014845794",
+    "post_id": "2121449185014845794",
+    "prompt_ids": [
+      "2121449497171841362"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 11955,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2121443999550672896/img/mtMQkmKdESf1J3M4.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2121443999550672896/vid/avc1/2160x2880/nvE35nC48o317qiL.mp4",
+        "resolution": "2160x2880",
+        "duration_s": 35.5
+      }
+    ]
   }
 ]
