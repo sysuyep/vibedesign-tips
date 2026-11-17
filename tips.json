@@ -521,5 +521,34 @@
         "duration_s": 40.8
       }
     ]
+  },
+  {
+    "number": 19,
+    "slug": "five-card-scroll-interactions",
+    "folder": "tips/019-five-card-scroll-interactions",
+    "title": "五种经典的卡片滚动交互",
+    "date": "2026-11-17",
+    "published_at": "2026-11-17T08:50:00+08:00",
+    "source_url": "https://x.com/Kubai087/status/2122492414598459820",
+    "post_id": "2122492414598459820",
+    "prompt_ids": [
+      "2122496665571803155"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 12908,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2122351838892785664/img/h1ZCSS86COQtbShl.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2122351838892785664/vid/avc1/720x960/iNA6Lh-_TjnbqmWU.mp4",
+        "resolution": "720x960",
+        "duration_s": 42.9
+      }
+    ]
   }
 ]
