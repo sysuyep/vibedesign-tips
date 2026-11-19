@@ -550,5 +550,34 @@
         "duration_s": 42.9
       }
     ]
+  },
+  {
+    "number": 20,
+    "slug": "switch-checkbox-radio-select",
+    "folder": "tips/020-switch-checkbox-radio-select",
+    "title": "开关、复选框、单选和下拉，怎么选？",
+    "date": "2026-11-19",
+    "published_at": "2026-11-19T08:50:00+08:00",
+    "source_url": "https://x.com/Kubai087/status/2123217190052827633",
+    "post_id": "2123217190052827633",
+    "prompt_ids": [
+      "2123219668165140511"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 2974,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2123106760907177984/img/0qN9njPkcgKsORcQ.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2123106760907177984/vid/avc1/720x960/ocVdhxvpKJfGZleQ.mp4",
+        "resolution": "720x960",
+        "duration_s": 62.4
+      }
+    ]
   }
 ]
