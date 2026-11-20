@@ -4,10 +4,11 @@
 
 内容版权归原作者所有，这里只做个人学习用的整理，仓库为私有。每一期都附有原帖链接。
 
-## 目录（最新在前，共 20 期）
+## 目录（最新在前，共 21 期）
 
 | 期号 | 标题 | 发布日期（北京时间） | 原帖 |
 | --- | --- | --- | --- |
+| 021 | [景深环形卡片与流体渐变](tips/021-depth-ring-cards-fluid-gradient/README.md) | 2026-11-20 | [原帖](https://x.com/Kubai087/status/2123579578098536608) |
 | 020 | [开关、复选框、单选和下拉，怎么选？](tips/020-switch-checkbox-radio-select/README.md) | 2026-11-19 | [原帖](https://x.com/Kubai087/status/2123217190052827633) |
 | 019 | [五种经典的卡片滚动交互](tips/019-five-card-scroll-interactions/README.md) | 2026-11-17 | [原帖](https://x.com/Kubai087/status/2122492414598459820) |
 | 018 | [会倾斜、能翻转的 3D 镭射卡片](tips/018-3d-holographic-card/README.md) | 2026-11-15 | [原帖](https://x.com/Kubai087/status/2121892029403922717) |

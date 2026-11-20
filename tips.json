@@ -579,5 +579,34 @@
         "duration_s": 62.4
       }
     ]
+  },
+  {
+    "number": 21,
+    "slug": "depth-ring-cards-fluid-gradient",
+    "folder": "tips/021-depth-ring-cards-fluid-gradient",
+    "title": "景深环形卡片与流体渐变",
+    "date": "2026-11-20",
+    "published_at": "2026-11-20T08:50:00+08:00",
+    "source_url": "https://x.com/Kubai087/status/2123579578098536608",
+    "post_id": "2123579578098536608",
+    "prompt_ids": [
+      "2123580564272034300"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 12096,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2123463986377326592/img/lt6FBPsIKWj7ICLK.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2123463986377326592/vid/avc1/720x960/WfYSIo5TFcEs-jW8.mp4",
+        "resolution": "720x960",
+        "duration_s": 17.1
+      }
+    ]
   }
 ]
