@@ -608,5 +608,34 @@
         "duration_s": 17.1
       }
     ]
+  },
+  {
+    "number": 22,
+    "slug": "empty-state-three-styles",
+    "folder": "tips/022-empty-state-three-styles",
+    "title": "空状态的三种画法",
+    "date": "2026-11-21",
+    "published_at": "2026-11-21T23:57:42+08:00",
+    "source_url": "https://x.com/Kubai087/status/2124170395825873348",
+    "post_id": "2124170395825873348",
+    "prompt_ids": [
+      "2124170782716912111"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 13436,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2124165390314131456/img/vqKQLb323hpOpolP.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2124165390314131456/vid/avc1/720x960/rRvZbiTgvkXN70fa.mp4",
+        "resolution": "720x960",
+        "duration_s": 52.2
+      }
+    ]
   }
 ]
