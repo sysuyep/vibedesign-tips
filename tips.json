@@ -637,5 +637,34 @@
         "duration_s": 52.2
       }
     ]
+  },
+  {
+    "number": 23,
+    "slug": "mobile-web-adaptation-tips",
+    "folder": "tips/023-mobile-web-adaptation-tips",
+    "title": "做好移动端网页适配的 4 个 Tips",
+    "date": "2026-11-24",
+    "published_at": "2026-11-24T08:50:00+08:00",
+    "source_url": "https://x.com/Kubai087/status/2125029129619644704",
+    "post_id": "2125029129619644704",
+    "prompt_ids": [
+      "2125032522061099249"
+    ],
+    "prompt_location": "author_reply",
+    "prompt_chars": 16988,
+    "media": [
+      {
+        "type": "poster",
+        "file": "media/poster.jpg",
+        "source_url": "https://pbs.twimg.com/amplify_video_thumb/2124926647690563584/img/465sNrFyi1CCG1Zz.jpg"
+      },
+      {
+        "type": "video",
+        "file": "media/demo.mp4",
+        "source_url": "https://video.twimg.com/amplify_video/2124926647690563584/vid/avc1/720x960/hBJOjCgAMYsq0saT.mp4",
+        "resolution": "720x960",
+        "duration_s": 34.7
+      }
+    ]
   }
 ]
